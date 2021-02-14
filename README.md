@@ -1,2 +1,2 @@
-# MenuSliding
+# SlidingMenu
 Created with CodeSandbox
